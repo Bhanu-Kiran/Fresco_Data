@@ -1,0 +1,14 @@
+Machine learning Data Visualization
+https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971
+
+A ML crash course from GooGle
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
+A small example of Collaborative Filtering
+https://medium.com/analytics-vidhya/collaborative-filtering-simple-practice-pairwise-correlations-c87576a7c65
+
+5 free Data Science sources offered by top Universities
+https://content.techgig.com/5-free-online-data-science-courses-offered-by-leading-universities/articleshow/83772201.cms
+
+A small articel on Statistical Tests
+https://www.analyticsvidhya.com/blog/2021/06/feature-selection-using-statistical-tests/
